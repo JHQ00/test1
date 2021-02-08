@@ -35,7 +35,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://mp.weixin.qq.com/s?__biz=MzI5MjMzNzYzOA==&mid=2247483651&idx=1&sn=5965a1946d32990a17588c70c4b9e487&chksm=ec03a38adb742a9c8cad3aabe5b0c2aec2a8420e09dec75d4f5f16ab1a33383df712ea415ed3&xtrack=1&scene=90&subscene=93&sessionid=1612194669&clicktime=1612194671&enterid=1612194671&ascene=56&devicetype=android-29&version=2800003c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A3GC%2FGDGkR52rKvOiEDxVqU%3D&pass_ticket=9Z6Vv3SsN9t8zsPvoQ982XIFGv5o6Yw%2B8hImthcYUR0SRcZkSUFXOL3MFTZBCgyn&wx_header=1';
+let adLink = 'www.baidu.com';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成大茜茜';
